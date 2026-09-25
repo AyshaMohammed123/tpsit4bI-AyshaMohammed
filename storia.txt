@@ -1,0 +1,10 @@
+esercizio 3 
+
+```
+git log --oneline --graph --all
+* fa84e24 (HEAD -> main, origin/main, origin/HEAD) FEAT: esercizio 3 aggiunta nome e cognome nel readme
+* 4acf00c FIX: riscritto il testo più correttamente
+* 9974950 FEAT: fine secondo esercizio con adeguata spiegazione
+* d06a3d8 FEAT: inizio secondo esercizio
+* 7350d73 Initial commit
+```
