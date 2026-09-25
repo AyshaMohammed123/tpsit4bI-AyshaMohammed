@@ -20,5 +20,7 @@ nothing to commit, working tree clean
 
 
 ## DIFFERENZA 
-- la differenza è che al primo "git status" il terminale dice che è stato aggiunto il file con il comando "git add elenco-prestiti.md"
-e che è pronto ha venir salvato tramite commit e registratio nella cronologia. Nel secondo quando è stato salvato nella cronologia, ci dice che non c'è nient'altro da fare perchè è stato fatto 
+- la differenza è che al primo "git status" il terminale afferma che il file è stato aggiunto nell'area di stage tramite il comando "git add elenco-prestiti.md" inoltre indica che ora è pronto ha poter venir salvato tramite commit e registratio nella cronologia. 
+
+- Nel secondo "git status" dato che dopo il primo git status siamo andati a fare un commit, il terminale ci conferma che non c'è nient'altro da salvare nella cronologia dato che è gia stato salvato tramite commit precedente
+
