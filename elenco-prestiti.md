@@ -5,6 +5,8 @@
 | INV-0127 | notebook | HP | ProBook 450 | 2022 | manutenzione |
 | INV-0204 | tablet | Samsung | Galaxy Tab A9 | 2024 | disponibile |
 
+### **(gli ultimi due dispositivi erano da aggiungere nel file elenco-dispositivi.md)**
+
 
 #### primo git status: 
 
